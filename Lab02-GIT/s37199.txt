@@ -1,2 +1,5 @@
 Name: Jakub Mielko
 Univeristy: PJATK
+hello from staging area
+Student id: s37199
+S
